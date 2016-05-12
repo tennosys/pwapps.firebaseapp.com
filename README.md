@@ -1,4 +1,4 @@
-## SAM - Progressive Web Apps
+## Try - Progressive Web Apps
 
 > Learning to Progressive Web Apps
  [Visit](https://pwapps.firebaseapp.com/)
